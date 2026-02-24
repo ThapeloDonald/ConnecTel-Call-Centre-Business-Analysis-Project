@@ -68,5 +68,74 @@ Strong correlation with Cost Per Call:
 
 Key Insight: Cost is driven by inefficiency, not workload.
 
+#### 2. Team Performance
+<img width="940" height="187" alt="image" src="https://github.com/user-attachments/assets/7418e2e1-abcc-4e8b-9da7-56da6d488aec" />
+
+Key findings:
+ - Team B’s calls are ~24% longer.
+ - Their cost per call is ~8–9% higher.
+ - No customer satisfaction score advantage.
+
+This indicates process inefficiency, not quality improvement.
+
+#### 3. Shift Analysis
+<img width="940" height="185" alt="image" src="https://github.com/user-attachments/assets/d082e49d-ffc9-47e4-b2f3-2e752115b27e" />
+
+Evening Shift has:
+ - Lowest first call resolution rate.
+ - Similar cost to other shifts.
+
+This likely drives hidden repeat-call costs.
+
+#### 4. Experiance Impact
+<img width="940" height="188" alt="image" src="https://github.com/user-attachments/assets/18c669d5-c938-4edd-b791-92a5ecedd7b1" />
+
+New agents:
+ - Escalate 2X more.
+ - Use more overtime.
+   
+Training gap is likely increasing costs.
+
+### Bussiness Recommendations
+#### 1. Reduce Call Duration (Team B focus).
+ - Audit scripts.
+ - Standardise call flows.
+ - Performance coaching.
+
+Impact: ~7– 8% cost reduction potential.
+
+#### 2. Improve Overtime Management
+ - Better forecasting.
+ - Smarter staffing allocation.
+ - Approval thresholds.
+
+Impact: ~3–5% savings.
+
+#### 3. Improve Early-Tenure Training
+ - 30 – 60 days coaching program.
+ - Escalation reviews.
+ - Mentorship pairing.
+
+Impact: Reduce repeat workload + stabilise FCR rate.
+
+### Risks and Assuptions
+ - Shorter calls must not reduce customer satisfaction score.
+ - Overtime reduction must not hurt service levels.
+ - Repeat calls not fully captured in data.
+
+### Recommended Next Steps
+ - Run 4-week Team B pilot.
+ - Conduct shift-level supervision review.
+
+### Outcome
+This analysis provides actionable insights that potentially reduces 7-10% overall cost ConnecTel Call Centre.
+
+
+
+
+
+
+
+
 
 
