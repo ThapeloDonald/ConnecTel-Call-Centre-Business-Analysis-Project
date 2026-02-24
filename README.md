@@ -1,5 +1,18 @@
 # ConnecTel-Call-Centre-Business-Analysis-Project
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Business Problem](#business-problem)
+- [Objective](#objectives)
+- [Dataset](#dataset)
+- [Methodology](#methodology)
+- [Tools and Skills Used](#tools-and-skills-used)
+- [Key Findings and Insights](#key-findings-and-insights)
+- [Business Recommendations](#business-recommendations)
+- [Risks and Assumptions](#risks-and-assumptions)
+- [Recommended Next Steps](#recommended-next-steps)
+- [Outcome](#outcome)
 ### Project Overview
 ConnectTel, a top telecom provider in South Africa, is facing high operational costs 
 in its customer service call centre. They suspect inefficiencies in how calls are 
@@ -96,7 +109,7 @@ New agents:
    
 Training gap is likely increasing costs.
 
-### Bussiness Recommendations
+### Business Recommendations
 #### 1. Reduce Call Duration (Team B focus).
  - Audit scripts.
  - Standardise call flows.
@@ -118,7 +131,7 @@ Impact: ~3–5% savings.
 
 Impact: Reduce repeat workload + stabilise FCR rate.
 
-### Risks and Assuptions
+### Risks and Assumptions
  - Shorter calls must not reduce customer satisfaction score.
  - Overtime reduction must not hurt service levels.
  - Repeat calls not fully captured in data.
